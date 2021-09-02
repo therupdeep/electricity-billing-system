@@ -101,45 +101,6 @@ if(isset($_POST['login_submit'])) {
     <!-- /headerwrap -->
 
 
-    <div class="container">
-    <div class="row mt centered">
-        <img src="assets/img/windmill.jpeg" width="100%" alt="">
-    </div>
-        <!-- <div class="row mt centered">
-            <div class="col-lg-6 col-lg-offset-3">
-                <h1>How this Portal woks</h1>
-                <h3></h3>
-            </div>
-        </div> -->
-        <!-- /row -->
-
-        <!-- <div class="row mt centered">
-            <div class="col-lg-4">
-                <img src="assets/img/ser01.png" width="180" alt="">
-                <h4>1 - Login</h4>
-                <p></p>
-            </div> -->
-            <!--/col-lg-4 -->
-
-            <!-- <div class="col-lg-4">
-                <img src="assets/img/ser02.png" width="180" alt="">
-                <h4>2 - Peruse Bills</h4>
-                <p></p>
-            </div> -->
-            <!--/col-lg-4 -->
-
-            <!-- <div class="col-lg-4">
-                <img src="assets/img/ser03.png" width="180" alt="">
-                <h4>3 - Transact</h4>
-                <p></p>
-            </div> -->
-            <!--/col-lg-4 -->
-
-        <!-- </div> -->
-        <!-- /row -->
-    </div>
-    <!-- /container -->
-
 
     <!--=======================JS=========================== -->
     <!-- Placed at the end of the document so the pages load faster -->
